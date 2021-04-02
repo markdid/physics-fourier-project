@@ -1,0 +1,57 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1348,         49]
+NotebookOptionsPosition[       931,         33]
+NotebookOutlinePosition[      1272,         48]
+CellTagsIndexPosition[      1229,         45]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Term Project - Fourier", "Section",
+ CellChangeTimes->{{3.8263060865831556`*^9, 
+  3.826306095835128*^9}},ExpressionUUID->"18ac1ae9-462b-4d6c-b404-\
+2906b7830836"],
+
+Cell[BoxData["Fourier"], "Input",
+ CellChangeTimes->{{3.8263061933119974`*^9, 
+  3.8263062096909904`*^9}},ExpressionUUID->"f3c62bea-de46-44f8-ad42-\
+bcca14d6197f"]
+}, Open  ]]
+},
+WindowSize->{766, 772},
+WindowMargins->{{-7, Automatic}, {Automatic, 0}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 169, 3, 67, "Section",ExpressionUUID->"18ac1ae9-462b-4d6c-b404-2906b7830836"],
+Cell[752, 27, 163, 3, 28, "Input",ExpressionUUID->"f3c62bea-de46-44f8-ad42-bcca14d6197f"]
+}, Open  ]]
+}
+]
+*)
+
